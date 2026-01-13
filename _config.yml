@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Freeman Wong
+title: Chi-Fong Wong
 email: cfwong@cityu.edu.mo
 description: >- # this means to ignore newlines until "baseurl:"
 profile_picture: 'imgs/mount_wilson_2018.jpeg'
