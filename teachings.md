@@ -20,6 +20,10 @@ permalink: /teachings/
 
 * MDS015 Artificial Neural Network 人工智慧神經網絡, Spring 2022
 
+## HRO Training
+
+[2026 M365](https://cityuedumo-my.sharepoint.com/:f:/g/personal/cfwong_cityu_edu_mo/IgA_lNULi5KPRYQRRUzWO3hHAaHbGE2bOgoc5iIIFIcxLu0?e=m480Uh)
+
 ## 教青培訓
 
 [2026-05-08 深度學習軟件應用](https://cityuedumo-my.sharepoint.com/:f:/g/personal/cfwong_cityu_edu_mo/IgDXR4fBWdFIRLFKs6zLfI6eAccy9E1UAEFcF2-4ZyywLSM?e=V9hijG)
